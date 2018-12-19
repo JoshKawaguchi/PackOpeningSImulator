@@ -126,6 +126,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void addCards() {
+        //erase these but use it as an example
+        //add each card to the rarity they belong in ex:  malygos in legendary
         legendary.add(R.drawable.abomination);
         epic.add(R.drawable.abomination);
         rare.add(R.drawable.abomination);
